@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 700;
+  color: #ffffff;
+  text-transform: none;
+
+   background-color: #849d8f;
+}
+
+a {
+  text-decoration: none;
+  color:#ffffff;
+}
+
+.main-navigation {
+  font-size: 16px;
+  line-height: 22px;
+  }
+
+ul {
+  list-style: none;
+}
+.navigation-link {
+  text-decoration: underline;
+}
+
+.sub-menu-link {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  color:#000000;
+  }
+
+.sub-menu-link-bold {
+  font-weight: 700;
+}
+
+.header-contacts {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.header-phone {
+  font-size: 22px;
+  line-height: 24px;
+}
+
+.promo-raspberry {
+  background-color: #860525;
+  background-image: url("../img/raspberry.jpg");
+  background-position: 0 0;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.promo-chocolate {
+  background-color: #371c11;
+  background-image: url("../img/chocolate.jpg");
+  background-position: 0 0;
+  background-repeat:repeat;
+  background-size: contain;
+}
+
+
+
+
+.promo-h3 {
+  font-size: 35px;
+  line-height: 41px;
+  font-weight: bold;
+}
+
+.hits-label {
+  background-image: url(./img/hit-label.png);
+
+}
